@@ -1,0 +1,32 @@
+{
+	"list":[
+		{	
+			"adr":"/recommend",
+			"pic":"./data/images/index/btn11.png",
+			"pics":"./data/images/index/btn1.png",
+			"word":"推荐",
+			"show":"true"
+		},
+		{
+			"adr":"/discover",
+			"pic":"./data/images/index/btn22.png",
+			"pics":"./data/images/index/btn2.png",
+			"word":"发现",
+			"show":"false"
+		},
+		{
+			"adr":"/eatingwords",
+			"pic":"./data/images/index/btn33.png",
+			"pics":"./data/images/index/btn3.png",
+			"word":"食话",
+			"show":"false"
+		},
+		{
+			"adr":"/my",
+			"pic":"./data/images/index/btn44.png",
+			"pics":"./data/images/index/btn4.png",
+			"word":"我的",
+			"show":"false"
+		}
+	]
+}
